@@ -1,0 +1,75 @@
+body{
+	background-color: white;
+	max-width: 800px;
+	max-height: 600px;
+	margin: auto;
+}
+
+.image{
+	width: 20%;
+	height: 20%;
+	float:left;
+	border-radius: 4px;
+	padding-left: 1px;
+}
+#image-1{
+
+}
+#image-2{
+	
+}
+#title{
+	color: cornsilk;
+	background-color: lightslategray;
+	font-family: monospace;
+	font-weight: normal;
+	margin-top: 0px;
+	font-size: 300%;
+	height: 75%;
+	width: 25%;
+	padding: 12%;
+	border-bottom-right-radius: 80px 50px;
+	float: left;
+
+	
+
+}
+
+.button {
+	text-align: left;
+	color: cornsilk;
+    background-color: lightslategray;
+	font-family: monospace;
+	font-weight: normal;
+	font-size: 150%;
+	height:100%;
+	width:100%;
+	border: none;
+	padding: 3%;
+
+}
+.button:hover{
+	background-color: cornsilk;
+	color: lightslategray;
+	transition-delay: .04s;
+	cursor: pointer;
+}
+.content{
+	text-indent: 15px;
+	display: none;
+	color: darkslategray;
+	background-color: white;
+	font-family: monospace;
+	font-size: 16px;
+
+}
+
+#image-3{
+	height:200px;
+	width:200px;
+	padding: 1px;
+	float: left;
+}
+.component-list{
+	float: left;
+}
